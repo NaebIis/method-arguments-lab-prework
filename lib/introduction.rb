@@ -1,3 +1,3 @@
 def theNewGuy(name)
-  puts "The new guys name is #{name}"
+  puts "Hi, my name is #{name}."
 end
