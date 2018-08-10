@@ -1,3 +1,3 @@
-def theNewGuy(x)
-  puts "The new guys age is #{x}"
+def theNewGuy(name)
+  puts "The new guys name is #{name}"
 end
